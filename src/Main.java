@@ -1,12 +1,12 @@
 public class Main {
     public static void main(String[] args) {
 
-        int eaters = 5; // сколько людей будут есть
+        int eaters = 5; 
 
-        int water = 3000; // миллилитров воды
-        int potatoes = 5; // картофелин
-        int chicken = 6; // куриных бёдер
-        int spices = 10; // ложек специй
+        int water = 3000; 
+        int potatoes = 5; 
+        int chicken = 6; 
+        int spices = 10; 
 
         System.out.println("Сварили суп. На одного человека вышло:");
         System.out.println((water / eaters) + " миллилитров воды");
